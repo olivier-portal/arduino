@@ -1,0 +1,19 @@
+R = U/I
+
+Arduino:
+U = 5v
+I = 40mA = 0.04A
+
+LED:
+U = 2V
+I = 20mA
+
+U = 5 - 2 = 3
+
+IR = U => I = U/R
+
+I doit être 0.01, donc
+
+0.01 = 3 / R => R * 0.01 = 3 = > R = 3 / 0.01  = 300
+
+R doit être de 300 ohms
