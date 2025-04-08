@@ -1,0 +1,6 @@
+﻿Nom,Quantité,Composant
+"U1",1," Arduino Uno R3"
+"D1",1,"Rouge LED"
+"BAT1",1," Pile bouton 3 V"
+"Rpot1",1,"500 Ω Potentiomètre"
+"R1",1,"200 Ω Résistance"
