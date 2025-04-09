@@ -2,4 +2,5 @@
 "U1",1," Arduino Uno R3"
 "D1",1,"Rouge LED"
 "Rpot1",1,"250 kΩ Potentiomètre"
-"R2",1,"220 Ω Résistance"
+"R2, R1",2,"220 Ω Résistance"
+"D2",1,"Vert LED"
