@@ -1,0 +1,9 @@
+﻿Nom,Quantité,Composant
+"U1",1," Arduino Uno R3"
+"S1",1," Bouton-poussoir"
+"R1, R3",2,"220 Ω Résistance"
+"D1",1,"Rouge LED"
+"M1",1," Moteur à courant continu"
+"D2",1," Diode"
+"T1",1," Transistor NPN (bipolaire à jonctions)"
+"R2",1,"1 kΩ Résistance"
