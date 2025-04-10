@@ -1,0 +1,5 @@
+﻿Nom,Quantité,Composant
+"U1",1," Arduino Uno R3"
+"U2",1," Écran LCD 16x2"
+"Rpot1",1,"250 kΩ Potentiomètre"
+"R1",1,"220 Ω Résistance"
